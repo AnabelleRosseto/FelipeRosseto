@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FelipeRosseto
+- 👋 Hi, I’m @AnabelleRosseto
 - 👤 Please refer to me as Anabelle, Felice or related nicknames!
 - 👀 I’m interested in Back-end engineering and Game Development
 - 🌱 I’m currently learning Front-end development!
